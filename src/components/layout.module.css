@@ -1,0 +1,29 @@
+.container
+{
+    margin: auto;
+    max-width: 1750px;
+    font-family: 'Calibri';
+    font-size: 15px;
+    border-style: dotted;
+}
+
+.heading
+{
+    color: blue;
+}
+
+.nav-links {
+    display: flex;
+    list-style: none;
+    padding-left: 0;
+  }
+
+.nav-link-item
+{
+    padding-right: 2rem;
+}
+
+.nav-link-text
+{
+    color: blue;
+}
